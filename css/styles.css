@@ -1,0 +1,65 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.navbar img{
+    width: 41px;
+}
+.nav-btn{
+    display: block;
+  
+}
+
+.nav-border-btm{
+    border-bottom: 2px solid orange;
+}
+
+.nav-title{
+    text-align: center;
+    color: #0568AE;
+}
+
+.navbar-header {
+    width:  100%;
+}
+
+.icon-blue {
+    background-color: #0568AE;
+    color: #ffffff;
+
+}
+
+.icon-blue:hover{
+    border: 1px solid #ef6f00;
+    color: white;
+}
+
+.main {
+    margin: 100px auto;
+    width: 90%;
+}
+
+#new-appt{
+    margin: 10px 0px;
+    max-width: 500px;
+    display: none;
+}
+
+.btn-group{
+    display: flex;
+    justify-content: space-between;
+    flex: 1 0 auto;
+    flex-flow: row;
+    width: 20%;
+    margin: 10px 0px;
+    max-width: 105px;
+}
+
+.frm-margin-top{
+    margin-top: 30px;
+}
+
+.frm-input-width{
+    max-width: 250px;
+}
+
